@@ -94,8 +94,7 @@ Reduce the loss due to fraudulent activities.
 9.Visualize the Result  
 
 # Conclusion:
-
-The main objective of the proposed work was to review fraud detection of apps and to use a sentiment analysis 
+   The main objective of the proposed work was to review fraud detection of apps and to use a sentiment analysis 
 approach to differentiate the particular fraud apps. The experimental analysis is carried out on differing types of 
 apps with the proposed method for the detection of fraud apps. 
 Our system can detect frauds using Natural Language Processing and machine learning techniques. 
